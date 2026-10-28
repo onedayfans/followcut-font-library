@@ -1,0 +1,644 @@
+[
+  {
+    "id": "gensen",
+    "displayName": "源泉圓體",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/ButTaiwan/gensen-font/d347d3fffcb45e08857052433a0b432ed4f7ace8/otf/TW/GenSenRounded2TW-R.otf",
+    "status": "official source located; license and glyph coverage to verify",
+    "asset": "fonts/gensen.otf",
+    "bytes": 2185840,
+    "sha256": "88e992878bb7bf272f9957f034a14fd25fb20c388262ebe4eae18648cb89dd1c",
+    "licenseEvidence": "licenses/gensen.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "unresolved-swei-fuyuan",
+    "displayName": "獅尾福圓",
+    "categories": [
+      "繁體中文"
+    ],
+    "status": "source not verified; do not ship",
+    "releaseStatus": "HOLD: no verified source; no binary included"
+  },
+  {
+    "id": "sweigothic",
+    "displayName": "獅尾圓體",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/max32002/swei-gothic/c363a1d845aa782a71b7a068b5db0aff3f83ee86/CJK%20TC/SweiGothicCJKtc-Regular.ttf",
+    "status": "official source located; license and glyph coverage to verify",
+    "asset": "fonts/sweigothic.ttf",
+    "bytes": 2053540,
+    "sha256": "b731a2be9e5a3c0235f8cb1b57c5a7ed59e13cf32f93f3d51f0fbacbb15dffc0",
+    "licenseEvidence": "licenses/sweigothic.txt",
+    "releaseStatus": "upstream license and copyright notice included"
+  },
+  {
+    "id": "lxgwwenkaitc",
+    "displayName": "霞鶩文楷 TC",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/lxgwwenkaitc/LXGWWenKaiTC-Regular.ttf",
+    "sourceBytes": 13110528,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/lxgwwenkaitc.ttf",
+    "bytes": 3541892,
+    "sha256": "9c2d9601689f1c6363f141c786b97d03218bb31fc53c3fc243747ebb4ecf957f",
+    "licenseEvidence": "licenses/lxgwwenkaitc.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "zhimangxing",
+    "displayName": "Zhi Mang Xing",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/zhimangxing/ZhiMangXing-Regular.ttf",
+    "sourceBytes": 4063532,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/zhimangxing.ttf",
+    "bytes": 1768760,
+    "sha256": "1f000d1eeaa46e0392ed42dea0e4287d3df7298f01c2ad7f7818f3e6394d03a2",
+    "licenseEvidence": "licenses/zhimangxing.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "mashanzheng",
+    "displayName": "Ma Shan Zheng",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+    "sourceBytes": 5857936,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/mashanzheng.ttf",
+    "bytes": 2590592,
+    "sha256": "66d4853088b9807c3a126491ef1975816fd969bfc3bdeaf21f42b5655d25bb29",
+    "licenseEvidence": "licenses/mashanzheng.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "chenyu",
+    "displayName": "辰宇落雁體",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/Chenyu-otf/chenyuluoyan_thin/6e36815b0bec9f4f948298698d00b27a5f0b65c1/ChenYuluoyan-2.0-Thin.ttf",
+    "status": "official source located; license and glyph coverage to verify",
+    "asset": "fonts/chenyu.ttf",
+    "bytes": 9522140,
+    "sha256": "1289e42a6d1ec995d0cb23aee89efc69fc95749fbd54a610057a3e992dc453db",
+    "licenseEvidence": "licenses/chenyu.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "notosanstc",
+    "displayName": "Noto Sans TC",
+    "categories": [
+      "繁體中文"
+    ],
+    "bundledFilename": "NotoSansTC-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/notosanstc.ttf",
+    "bytes": 11941968,
+    "sha256": "864727d210d54f2537bbe23b3a839436c3992af72de9322af5270897246bd44f",
+    "licenseEvidence": "licenses/notosanstc.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "zcoolkuaile",
+    "displayName": "ZCOOL KuaiLe",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+    "sourceBytes": 1514968,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/zcoolkuaile.ttf",
+    "bytes": 644540,
+    "sha256": "5829248f39df2d04833b94adfff9cb1d626060ae9db8e6ad16241e766ee57e9d",
+    "licenseEvidence": "licenses/zcoolkuaile.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "longcang",
+    "displayName": "Long Cang",
+    "categories": [
+      "繁體中文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/longcang/LongCang-Regular.ttf",
+    "sourceBytes": 5162508,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/longcang.ttf",
+    "bytes": 2262108,
+    "sha256": "72fb57468c0aa0e74521f062c6a527bdec0e372206872d86bb74c1ee2176e85d",
+    "licenseEvidence": "licenses/longcang.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "zenmarugothic",
+    "displayName": "Zen Maru Gothic",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/zenmarugothic/ZenMaruGothic-Regular.ttf",
+    "sourceBytes": 3832756,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/zenmarugothic.ttf",
+    "bytes": 1520320,
+    "sha256": "cc02a7a5889e1eb696a7d257bdd2d087944026498d1fe9c42b42c99a7b1769ed",
+    "licenseEvidence": "licenses/zenmarugothic.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "mplusrounded1c",
+    "displayName": "M PLUS Rounded 1c",
+    "categories": [
+      "日文"
+    ],
+    "bundledFilename": "MPLUSRounded1c-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/mplusrounded1c.ttf",
+    "bytes": 3389792,
+    "sha256": "b75708b53e45b06d17d470aeeca5b766e3d1b3999f03f13ec4eb863ca846c14c",
+    "licenseEvidence": "licenses/mplusrounded1c.txt",
+    "releaseStatus": "upstream license and copyright notice included"
+  },
+  {
+    "id": "kosugimaru",
+    "displayName": "Kosugi Maru",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/apache/kosugimaru/KosugiMaru-Regular.ttf",
+    "license": "Apache-2.0",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/kosugimaru.ttf",
+    "bytes": 1432636,
+    "sha256": "c40f89cd5becef02c67b56ace412bfc350ccafaa357850de092704842dc40623",
+    "licenseEvidence": "licenses/kosugimaru.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "kiwimaru",
+    "displayName": "Kiwi Maru",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/kiwimaru/KiwiMaru-Regular.ttf",
+    "sourceBytes": 5065572,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/kiwimaru.ttf",
+    "bytes": 2390248,
+    "sha256": "9718f8db033d82bf79f05c1ed8e337b308b58cc6708625d5786fbc62e2d9d380",
+    "licenseEvidence": "licenses/kiwimaru.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "mochiypopone",
+    "displayName": "Mochiy Pop One",
+    "categories": [
+      "日文"
+    ],
+    "bundledFilename": "MochiyPopOne-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/mochiypopone.ttf",
+    "bytes": 5163948,
+    "sha256": "9e009430e1316c271a5f34759c6b65fc343c4e806f193042528887e7235a92c6",
+    "licenseEvidence": "licenses/mochiypopone.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "hachimarupop",
+    "displayName": "Hachi Maru Pop",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/hachimarupop/HachiMaruPop-Regular.ttf",
+    "sourceBytes": 4385624,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/hachimarupop.ttf",
+    "bytes": 1745852,
+    "sha256": "5da64972110839f2b832874b5b58d864a0a17d4a17b5c22983b25d7586c40969",
+    "licenseEvidence": "licenses/hachimarupop.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "yujiboku",
+    "displayName": "Yuji Boku",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/yujiboku/YujiBoku-Regular.ttf",
+    "sourceBytes": 8525588,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/yujiboku.ttf",
+    "bytes": 4186268,
+    "sha256": "13cb538d93e2b5100302230a051637d7790fd8de4f471363e4d5e8890a0af459",
+    "licenseEvidence": "licenses/yujiboku.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "delagothicone",
+    "displayName": "Dela Gothic One",
+    "categories": [
+      "日文"
+    ],
+    "bundledFilename": "DelaGothicOne-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/delagothicone.ttf",
+    "bytes": 2508848,
+    "sha256": "4ff87a0965f1b0505e5a2c58424bc6ad3cff27e56a82f21c2fc9d6b0e3857ee2",
+    "licenseEvidence": "licenses/delagothicone.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "rocknrollone",
+    "displayName": "RocknRoll One",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/rocknrollone/RocknRollOne-Regular.ttf",
+    "sourceBytes": 2682824,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/rocknrollone.ttf",
+    "bytes": 1249844,
+    "sha256": "2b0f1fd015308d9bd030e9078c8ce7790b75bbcdfea4cb5099277ac96d56739a",
+    "licenseEvidence": "licenses/rocknrollone.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "pottaone",
+    "displayName": "Potta One",
+    "categories": [
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/pottaone/PottaOne-Regular.ttf",
+    "sourceBytes": 4918516,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/pottaone.ttf",
+    "bytes": 2145660,
+    "sha256": "9b4522a3e206b7e701a76aa9b028e90bf8856530df03a93465dcf3d7647e02f0",
+    "licenseEvidence": "licenses/pottaone.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "jua",
+    "displayName": "Jua",
+    "categories": [
+      "韓文"
+    ],
+    "bundledFilename": "Jua-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/jua.ttf",
+    "bytes": 2119352,
+    "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898",
+    "licenseEvidence": "licenses/jua.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "gaegu",
+    "displayName": "Gaegu",
+    "categories": [
+      "韓文"
+    ],
+    "bundledFilename": "Gaegu-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/gaegu.ttf",
+    "bytes": 3165816,
+    "sha256": "aa52c98336f7c62e2896fc8b12b56a75d5b476d88a2f104b0980f4f7ce0adfc3",
+    "licenseEvidence": "licenses/gaegu.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "gamjaflower",
+    "displayName": "Gamja Flower",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/gamjaflower/GamjaFlower-Regular.ttf",
+    "sourceBytes": 12615444,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/gamjaflower.ttf",
+    "bytes": 6123984,
+    "sha256": "f5f2578101af335e389472c8a62534bfebefecaf724ce1b55fe558d58b26296c",
+    "licenseEvidence": "licenses/gamjaflower.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "himelody",
+    "displayName": "Hi Melody",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/himelody/HiMelody-Regular.ttf",
+    "sourceBytes": 12623412,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/himelody.ttf",
+    "bytes": 5946544,
+    "sha256": "f115abd30fc20ebd4f6e7047f28e41b44d21ec1614f94eb0344f0a4d8557e1b1",
+    "licenseEvidence": "licenses/himelody.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "cutefont",
+    "displayName": "Cute Font",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/cutefont/CuteFont-Regular.ttf",
+    "sourceBytes": 1027936,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/cutefont.ttf",
+    "bytes": 598460,
+    "sha256": "218be5e11f59e5242c22d837c022bb3f8c7c8e4fd3d67ec05300daf1bb721390",
+    "licenseEvidence": "licenses/cutefont.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "dongle",
+    "displayName": "Dongle",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/dongle/Dongle-Regular.ttf",
+    "sourceBytes": 4458600,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/dongle.ttf",
+    "bytes": 4203424,
+    "sha256": "1fceef2f9f1835c091e7bb2bd8c94af15665c027872e19417a663d5b808ee3cc",
+    "licenseEvidence": "licenses/dongle.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "singleday",
+    "displayName": "Single Day",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/singleday/SingleDay-Regular.ttf",
+    "sourceBytes": 816524,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/singleday.ttf",
+    "bytes": 610024,
+    "sha256": "93b466e2bed881496c31c5fc8e10c8957942d78478d5b8db7ea1db9e27d5244e",
+    "licenseEvidence": "licenses/singleday.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "sunflower",
+    "displayName": "Sunflower",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/sunflower/Sunflower-Medium.ttf",
+    "sourceBytes": 770536,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/sunflower.ttf",
+    "bytes": 317120,
+    "sha256": "f80292c663e56a6934db62eef7831a8943b49ff0d25cd83816929d1e622ac853",
+    "licenseEvidence": "licenses/sunflower.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "poorstory",
+    "displayName": "Poor Story",
+    "categories": [
+      "韓文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/poorstory/PoorStory-Regular.ttf",
+    "sourceBytes": 3966768,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/poorstory.ttf",
+    "bytes": 1766464,
+    "sha256": "87543df941bd7ee581228a3a64379103592669ecbb03ff7e2b63625a424d716a",
+    "licenseEvidence": "licenses/poorstory.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "dohyeon",
+    "displayName": "Do Hyeon",
+    "categories": [
+      "韓文"
+    ],
+    "bundledFilename": "DoHyeon-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/dohyeon.ttf",
+    "bytes": 879764,
+    "sha256": "35644be7f28e0a68a447b1f7af351dcde5674b870f24f7b5f43e26d00b4ab653",
+    "licenseEvidence": "licenses/dohyeon.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "fredoka",
+    "displayName": "Fredoka",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Fredoka-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/fredoka.ttf",
+    "bytes": 159184,
+    "sha256": "2ba02e68b152868aef9ba28e24b3648c7d457fe6f25c761f2c2c53fb61a73fc8",
+    "licenseEvidence": "licenses/fredoka.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "baloo2",
+    "displayName": "Baloo 2",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Baloo2-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/baloo2.ttf",
+    "bytes": 683200,
+    "sha256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2",
+    "licenseEvidence": "licenses/baloo2.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "quicksand",
+    "displayName": "Quicksand",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Quicksand-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/quicksand.ttf",
+    "bytes": 124824,
+    "sha256": "39c9b64223561f56aaff6062a6f04063c4fc86809ad6768722c06614d977e1cc",
+    "licenseEvidence": "licenses/quicksand.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "nunito",
+    "displayName": "Nunito",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Nunito-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/nunito.ttf",
+    "bytes": 276932,
+    "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "licenseEvidence": "licenses/nunito.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "chewy",
+    "displayName": "Chewy",
+    "categories": [
+      "英文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/apache/chewy/Chewy-Regular.ttf",
+    "license": "Apache-2.0",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/chewy.ttf",
+    "bytes": 41248,
+    "sha256": "7cf75ea288f82fd20badea8ab4da7a656a96a7277c170811e813b3d3d6294147",
+    "licenseEvidence": "licenses/chewy.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "bubblegumsans",
+    "displayName": "Bubblegum Sans",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "BubblegumSans-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/bubblegumsans.ttf",
+    "bytes": 38844,
+    "sha256": "db8d1c71c398266ecabe9ae4923c4feb1323441a4f056a9339e41d8f847bd0c0",
+    "licenseEvidence": "licenses/bubblegumsans.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "comfortaa",
+    "displayName": "Comfortaa",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Comfortaa-VF.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/comfortaa.ttf",
+    "bytes": 201756,
+    "sha256": "0fc3f45dc48b614db9c39181502544b37217ecbf8bee2fb35886992bc96c5bd3",
+    "licenseEvidence": "licenses/comfortaa.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "varelaround",
+    "displayName": "Varela Round",
+    "categories": [
+      "英文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/varelaround/VarelaRound-Regular.ttf",
+    "sourceBytes": 132748,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/varelaround.ttf",
+    "bytes": 132748,
+    "sha256": "e1e47eb66dbc2ddc106661338e712d9176c9e83c669a82fde155324823d03aa2",
+    "licenseEvidence": "licenses/varelaround.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "pacifico",
+    "displayName": "Pacifico",
+    "categories": [
+      "英文"
+    ],
+    "bundledFilename": "Pacifico-Regular.ttf",
+    "status": "existing bundled file; license to verify",
+    "asset": "fonts/pacifico.ttf",
+    "bytes": 329380,
+    "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701",
+    "licenseEvidence": "licenses/pacifico.txt",
+    "releaseStatus": "bundled license audit: ofl"
+  },
+  {
+    "id": "sniglet",
+    "displayName": "Sniglet",
+    "categories": [
+      "英文"
+    ],
+    "source": "https://raw.githubusercontent.com/google/fonts/9862abc066c9b83bf84c3e8ed1fc2d8d48f9bbf0/ofl/sniglet/Sniglet-Regular.ttf",
+    "sourceBytes": 75212,
+    "license": "OFL-1.1",
+    "status": "official source and license located; glyph coverage to verify",
+    "asset": "fonts/sniglet.ttf",
+    "bytes": 75212,
+    "sha256": "2856a975b9c0ac0402e8402ac4bd126cd97d6c90490435b6198d77e6384ae4f0",
+    "licenseEvidence": "licenses/sniglet.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "bakudai",
+    "displayName": "莫大毛筆 Bakudai",
+    "categories": [
+      "繁體中文",
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/max32002/bakudaifont/f1eb195cfd665d95311f2fd720068ef5b1cf6115/tw/Bakudai-Regular.ttf",
+    "status": "official source located; license and glyph coverage to verify",
+    "asset": "fonts/bakudai.ttf",
+    "bytes": 14232448,
+    "sha256": "19fad0c294f3d3013bdee7471cd5e79015ee7a03acb2c47d9955937fc3dc8e4e",
+    "licenseEvidence": "licenses/bakudai.txt",
+    "releaseStatus": "license evidence present; final legal/source review required"
+  },
+  {
+    "id": "masafont",
+    "displayName": "正風毛筆 MasaFont",
+    "categories": [
+      "繁體中文",
+      "日文"
+    ],
+    "source": "https://raw.githubusercontent.com/max32002/masafont/8fa528cc22be3294af172634fc6ef70288d5f776/tw/MasaFont-Regular.ttf",
+    "status": "official source located; license and glyph coverage to verify",
+    "asset": "fonts/masafont.ttf",
+    "bytes": 4818328,
+    "sha256": "2d72e430488182730560d26523627637c9eb2d97281cf835443da827d7d0485f",
+    "licenseEvidence": "licenses/masafont.txt",
+    "releaseStatus": "upstream license and copyright notice included"
+  },
+  {
+    "id": "lxgwzhenkai",
+    "displayName": "霞鶩臻楷 LXGW ZhenKai GB",
+    "categories": [
+      "繁體中文",
+      "日文"
+    ],
+    "source": "https://github.com/lxgw/LxgwZhenKai/releases/download/v0.825/LXGWZhenKaiGB-Regular.ttf",
+    "status": "official release located; license and glyph coverage to verify",
+    "asset": "fonts/lxgwzhenkai.ttf",
+    "bytes": 17545474,
+    "sha256": "40876902a7ce25268ab710ad8fe6e2b63bc002aa4b68d22fd45fc1243726ced5",
+    "licenseEvidence": "licenses/lxgwzhenkai.txt",
+    "releaseStatus": "unmodified upstream font; original license notice preserved"
+  }
+]
